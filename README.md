@@ -1,16 +1,10 @@
-# flutter_weather_provider
+# Flutter Weather Provider
 
-A new Flutter project.
+This app called Weather App. It can provide some detail of current weather based on city name that you're looking for. 
 
-## Getting Started
+Build with :
+- Http
+- OpenWeatherMap API
+- Provider State Management
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Artboard](https://user-images.githubusercontent.com/87839081/131788771-f15a9256-6d5d-43a0-8d0a-d6a6784c8e97.png)
